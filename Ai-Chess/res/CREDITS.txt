@@ -1,0 +1,16 @@
+
+--------- FONT ---------
+
+Courgette-Regular.ttf:
+
+Courgette Font from fonts.google.com
+
++++++++++++++++++++++++++++++++++++++++++++
+
+--------- MUSIC ---------
+
+background.ogg: 
+Name: "When Orange is the Sky" 
+Author: Fabrizio Paterlini
+
++++++++++++++++++++++++++++++++++++++++++++
